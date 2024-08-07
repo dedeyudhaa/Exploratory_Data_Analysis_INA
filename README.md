@@ -23,7 +23,7 @@ plt.show()
 ```
 
 ### Results
-![Visualization of Top Skills for Data Roles in Indonesia](images\skill_demand.png)
+![Visualization of Top Skills for Data Roles in Indonesia](images/skill_demand.png)
 
 ### Insight
 - SQL and Python Dominance: SQL and Python are the most commonly requested skills across all three roles. SQL is particularly prominent for Data Analysts (49%) and Data Engineers (57%), while Python leads for Data Scientists (53%).
@@ -58,7 +58,7 @@ plt.show()
 ```
 
 ### Results
-![Trending Top Skills for Data Analysts in the US in Indonesia](images\skill_trends.png)
+![Trending Top Skills for Data Analysts in the US in Indonesia](images/skill_trends.png)
 
 
 
