@@ -27,7 +27,9 @@ plt.show()
 
 ### Insight
 - SQL and Python Dominance: SQL and Python are the most commonly requested skills across all three roles. SQL is particularly prominent for Data Analysts (49%) and Data Engineers (57%), while Python leads for Data Scientists (53%).
+
 - Role-Specific Skill Preferences: There are distinct differences in the skills required for each role. Data Analysts are also expected to know Excel (31%) and Tableau (25%), while Data Engineers are expected to be proficient in Spark (23%), AWS (22%), and Hadoop (20%). For Data Scientists, R (35%) is the third most requested skill after Python and SQL, with Tableau (17%) and Spark (14%) also being significant.
+
 - Visualization and Big Data Tools: Visualization tools like Tableau and Power BI are more relevant for Data Analysts, while big data technologies such as Spark, AWS, and Hadoop are more pertinent for Data Engineers. Data Scientists have a balanced demand for a mix of analytical and data manipulation tools, including R and Hadoop, besides Python and SQL.
 
 
@@ -59,6 +61,13 @@ plt.show()
 
 ### Results
 ![Trending Top Skills for Data Analysts in the US in Indonesia](images/skill_trends.png)
+
+### Insight
+- Dominance of SQL and Excel: SQL consistently appears as the most sought-after skill, with its prevalence peaking around February and remaining relatively high for the rest of the year. Excel also shows strong demand, particularly towards the latter half of the year, indicating that foundational data management and analysis skills are highly valued in the job market.
+
+- Fluctuating Popularity of Python and Tableau: Python and Tableau demonstrate significant fluctuations in demand. Python experiences a notable dip around June but recovers towards the end of the year, reflecting varying emphasis on programming and data visualization skills across different periods. Similarly, Tableau sees a steep decline mid-year but picks up again, suggesting intermittent but recurring needs for specialized data visualization expertise.
+
+- R and Power BI as Niche Skills: Both R and Power BI maintain a lower but steady presence compared to other skills. Their demand never exceeds 40%, indicating that while they are important, they are not as frequently required as SQL, Excel, Python, or Tableau. This trend suggests that R and Power BI are considered more niche or supplementary skills in the Indonesian data analyst job market.
 
 
 
